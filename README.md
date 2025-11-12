@@ -19,18 +19,26 @@
 
 ## 🎯 Live Demo
 
-🚀 **[View Live Demo](https://your-app.streamlit.app)** *(Update after deployment)*
+🚀 **Deploy to Streamlit Cloud**: [Click here to deploy](https://share.streamlit.io/)
 
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Dashboard+Overview)
+![Dashboard Overview](https://raw.githubusercontent.com/bharat3645/DS-LAB_Sem7-Mini-Project/main/screenshots/dashboard.png)
+
+*Interactive dashboard showing crime statistics and visualizations*
 
 ### Analytics Page
-![Analytics](https://via.placeholder.com/800x400/2ecc71/ffffff?text=Analytics+Page)
+![Analytics](https://raw.githubusercontent.com/bharat3645/DS-LAB_Sem7-Mini-Project/main/screenshots/analytics.png)
+
+*Advanced data analysis with filtering and exploration tools*
 
 ### Machine Learning Models
-![ML Models](https://via.placeholder.com/800x400/e74c3c/ffffff?text=ML+Models)
+![ML Models](https://raw.githubusercontent.com/bharat3645/DS-LAB_Sem7-Mini-Project/main/screenshots/ml-models.png)
+
+*Machine learning model performance and predictions*
+
+> **Note**: Screenshots will be added once you run the application and capture them.
 
 ## 📊 Project Overview
 
@@ -88,8 +96,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crime-analytics-project.git
-   cd crime-analytics-project
+   git clone https://github.com/bharat3645/DS-LAB_Sem7-Mini-Project.git
+   cd DS-LAB_Sem7-Mini-Project
    ```
 
 2. **Create virtual environment** (recommended)
@@ -338,13 +346,13 @@ See [deploy_guide.md](deploy_guide.md) for more troubleshooting tips.
 
 ## 📞 Contact
 
-**Project Maintainer**: Your Name
+**Project Maintainer**: Bharat Singh Parihar
 
-**Email**: your.email@example.com
+**GitHub**: [@bharat3645](https://github.com/bharat3645)
 
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Repository**: [DS-LAB_Sem7-Mini-Project](https://github.com/bharat3645/DS-LAB_Sem7-Mini-Project)
 
-**Issues**: [GitHub Issues](https://github.com/yourusername/crime-analytics-project/issues)
+**Issues**: [GitHub Issues](https://github.com/bharat3645/DS-LAB_Sem7-Mini-Project/issues)
 
 ## 🙏 Acknowledgments
 
@@ -373,5 +381,5 @@ See [deploy_guide.md](deploy_guide.md) for more troubleshooting tips.
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/crime-analytics-project">⭐ Star this repo if you find it useful!</a>
+  <a href="https://github.com/bharat3645/DS-LAB_Sem7-Mini-Project">⭐ Star this repo if you find it useful!</a>
 </p>

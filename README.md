@@ -17,6 +17,20 @@
 - **📍 Geographic Analysis** - State and district-level crime patterns
 - **⚡ Performance Optimized** - Caching and efficient data processing
 
+## 📝 Form Submission
+
+For submitting this project through the Data Science Mini Project form:
+- 📋 See [FORM_ANSWERS.md](FORM_ANSWERS.md) for quick copy-paste answers
+- 📖 See [MINI_PROJECT_INFO.md](MINI_PROJECT_INFO.md) for detailed information
+
+**Quick Facts**:
+- 📊 Dataset: 10,641 records (5,319 Missing Persons + 5,322 Juvenile Crimes)
+- 📁 Columns: 152 total (28 + 124)
+- 🗓️ Time Period: 2017-2022
+- 🗺️ Coverage: National (India) - District level
+- 🤖 ML Models: 15+ algorithms implemented
+- 🏆 Best Performance: XGBoost (R² = 0.92)
+
 ## 🎯 Live Demo
 
 🚀 **Deploy to Streamlit Cloud**: [Click here to deploy](https://share.streamlit.io/)
@@ -147,6 +161,8 @@ crime-analytics-project/
 ├── .gitignore                    # Git ignore rules
 ├── LICENSE                       # MIT License
 ├── README.md                     # This file
+├── MINI_PROJECT_INFO.md          # Detailed form submission info
+├── FORM_ANSWERS.md               # Quick form answers guide
 │
 ├── .streamlit/
 │   ├── config.toml               # Streamlit configuration

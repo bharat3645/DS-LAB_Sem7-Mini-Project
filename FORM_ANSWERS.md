@@ -52,7 +52,7 @@ This project analyzes crime and missing persons data across India using two comp
 ### Q8: Total number of records/rows
 **Answer**: `10641` 
 
-*(Combined: 5,319 missing persons records + 5,322 juvenile crimes records)*
+*(Combined: 5,319 missing persons records + 5,322 juvenile crimes records, excluding headers)*
 
 ---
 
